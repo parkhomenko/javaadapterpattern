@@ -1,0 +1,4 @@
+javaadapterpattern
+==================
+
+Java Adapter Pattern
